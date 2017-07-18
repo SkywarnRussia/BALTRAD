@@ -1,3 +1,4 @@
+baltrad-wms
 BALTRAD WMS
 ===========
 by Tuomas Peltonen, STUK <tuomas.peltonen@stuk.fi>
